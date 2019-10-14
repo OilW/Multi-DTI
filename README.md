@@ -17,8 +17,7 @@ This project is about realizing Multi-DTI with python, see more information abou
 - `change_transformer.py`: build several keras models.
 
 
-### `data/` directory
-### `KIBA/` directory
+### `data/KIBA/` directory
 - `drugs.txt`: list of drug chemical compound sequences.
 - `proteins.txt`: list of protein amino acid sequences.
 - `mat_drug_protein.txt`: Drug_Protein interaction matrix(downloaded from [here](https://pubs.acs.org/doi/suppl/10.1021/ci400709d))
