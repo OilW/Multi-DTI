@@ -10,7 +10,7 @@ This project is about realizing Multi-DTI with python, see more information abou
 
 ## Code and data
 ### code
-- `model`: predict drug-target interactions (DTIs).
+- `model.py`: predict drug-target interactions (DTIs).
 - `Input.py`: shuffle dataset and divide new data parts.
 - `Metrics.py`: some useful metrics.
 - `pre_process.py`: train an embedding for each element in drug sequence and protein sequence.
